@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/vsStudioWorkspace/vscode_cmake/build",
+  "command": "C:\\MinGw\\bin\\g++.exe  @CMakeFiles/vscode_cmake.dir/includes_CXX.rsp -g -g -Wall -std=c++11 -o CMakeFiles\\vscode_cmake.dir\\source\\histogram.cpp.obj -c D:\\vsStudioWorkspace\\vscode_cmake\\source\\histogram.cpp",
+  "file": "D:/vsStudioWorkspace/vscode_cmake/source/histogram.cpp",
+  "output": "CMakeFiles/vscode_cmake.dir/source/histogram.cpp.obj"
+}
+]
